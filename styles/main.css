@@ -1,0 +1,46 @@
+body {
+    background-image: url(https://cdn.discordapp.com/attachments/809360788451360780/810819989162164244/Lol_blog_image_test_2.png);
+    background-position: center;
+    background-color: #4BD367 ;
+}
+head {
+    text-align: left;
+}
+
+h1 {
+    font-size: 40pt;
+    font-family: 'Noto Serif', serif;
+}
+
+p {
+    font-size: 22px;
+    font-family: 'Noto Serif', serif;
+}
+
+.Center{
+    text-align: center;
+}
+
+.TopRight {
+    position: absolute; top: 5px; right: 5px; text-align: right;
+}
+
+.LargerSize {
+    font-size: 25px;
+}
+
+.Serif {
+    font-family: 'Noto Serif', serif;
+}
+
+#sprint-technical {
+    font-size: 25px;
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
+
+#Sprint-Core {
+    font-size: 25px;
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
