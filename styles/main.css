@@ -44,3 +44,12 @@ p {
     font-family: 'Noto Serif', serif;
     text-align: center;
 }
+
+.Red-Text {
+    color: red;
+}
+
+#Example-Yellow {
+    color: yellow;
+    text-align: right;
+}
